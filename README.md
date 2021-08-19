@@ -1,4 +1,4 @@
-# Cae_class
+# Car_class
  1.AUTHOR ... HAYK VARDAZARYAN ... 
     contact: ... phone number:+37477204615 ... gmail:haykvardazaryan707@gmail.com 
     2.DESCRIPTION ...This is the simulator of HR manager. Owing to dialogs beetween the program and user, user can see which worker from five companies (arrays) appropriate his criteries.    
